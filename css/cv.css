@@ -1,0 +1,28 @@
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column1{
+    float:left;
+}
+.column2{
+    text-align:center;
+    
+}
+h1, h2{
+    font-family: 'K2D', sans-serif;
+    
+}
+img{
+    float: right;
+    width: 150px;
+    
+    border-style:double;
+    border-width: medium;
+}
