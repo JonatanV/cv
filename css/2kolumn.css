@@ -1,0 +1,37 @@
+main { 
+    width: 80%;
+    margin-left: 20%;
+    
+}
+aside {
+    width: 20%;
+    float: left;
+    border-right: 1px double aqua;   
+    text-align:left;
+}
+h1 {
+    font-size: 2em; 
+    text-align: center;
+}
+img {
+    
+    width: 150px;
+    border-radius: 100px;
+    
+}
+
+p{
+    padding: 0 2%;
+}
+h1{
+    padding: 0 2%;
+}
+h2 {
+    padding: 0 2%;
+}
+.bild {
+    text-align: center;
+}
+li{
+    padding: 0 2%;
+}

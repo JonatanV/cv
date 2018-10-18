@@ -4,25 +4,28 @@
 }
 
 .row:after {
-    content: "";
+    content:"";
     display: table;
     clear: both;
 }
 .column1{
-    float:left;
+    text-align: left;
 }
 .column2{
-    text-align:center;
+    text-align:right;
     
 }
 h1, h2{
-    font-family: 'K2D', sans-serif;
-    
+    font-family: 'K2D', 'sans-serif';
 }
 img{
-    float: right;
+    text-align: left;
     width: 150px;
-    
     border-style:double;
     border-width: medium;
+}
+.v1{
+    border-left: 6px solid  black;
+    height: 750px;
+    align-items: center;
 }
