@@ -2,36 +2,60 @@ main {
     width: 80%;
     margin-left: 20%;
     
+    
+}
+body{
+    background-image: url(../bilder/bakgrund.png);
+    background-size: cover;
+    
 }
 aside {
     width: 20%;
     float: left;
     border-right: 1px double aqua;   
     text-align:left;
+    border-style: solid;
 }
 h1 {
     font-size: 2em; 
     text-align: center;
+    font-family: 'K2D', sans-serif;
+    padding 0 2%;
+    color: darkgrey;
 }
 img {
     
     width: 150px;
     border-radius: 100px;
-    
+    color: aqua;
 }
 
 p{
     padding: 0 2%;
-}
-h1{
-    padding: 0 2%;
+    font-family: 'Slabo 27px', serif;
+    color: white;
+
 }
 h2 {
     padding: 0 2%;
+    font-family: 'Roboto', sans-serif;
+    color: aqua;
+    
 }
 .bild {
     text-align: center;
 }
 li{
     padding: 0 2%;
+    color: ghostwhite;
+}
+blockquote{
+    color: ghostwhite
+}
+
+.border{
+    margin: 2%;
+    border-style:dotted;
+    color: aqua;
+    border-radius: 12px;
 }
