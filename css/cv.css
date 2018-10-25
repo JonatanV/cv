@@ -12,7 +12,7 @@ body{
 }
 aside {
     width: 20%;
-    border-right: 1px double aqua;   
+    border-right: 2px double aqua;   
     text-align:left;
     float: left;
    
@@ -68,5 +68,5 @@ blockquote{
     border-radius: 12px;
 }
 aside>h2,aside>p,aside>h1{
-    margin: 2 6%;
+    margin: 20px;
 }
