@@ -1,6 +1,7 @@
 main { 
     width: 80%;
     margin-left: 20%;
+    margin-top: 2%;
     
     
 }
@@ -12,22 +13,24 @@ body{
 }
 aside {
     width: 20%;
-    border-right: 2px double aqua;   
+    border-right: 1px double aqua;   
     text-align:left;
     float: left;
-   
+    height: 690px; 
 }
 h1 {
     font-size: 2em; 
     text-align: center;
     font-family: 'K2D', sans-serif;
-    padding 0 2%;
+    padding 2 2%;
     color: darkgrey;
+    
 }
 img {
     
     width: 150px;
-    border-radius: 75px;
+    height: 150px;
+    border-radius: 100px;
     color: aqua;
     border-style: dotted;
 }
@@ -67,6 +70,6 @@ blockquote{
     color:aqua;
     border-radius: 12px;
 }
-aside>h2,aside>p,aside>h1{
-    margin: 20px;
+aside>h2,aside>p{
+    margin-right : 25px;
 }
