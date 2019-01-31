@@ -1,8 +1,11 @@
+html{
+    background-color: black;
+}
 main { 
     width: 80%;
     margin-left: 20%;
     margin-top: 2%;
-    background-color: black;
+ 
     
 }
 body{
